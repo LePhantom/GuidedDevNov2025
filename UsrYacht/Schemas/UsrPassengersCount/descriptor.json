@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d91015d3-5183-4474-818a-983450e14062",
+    "Name": "UsrPassengersCount",
+    "ModifiedOnUtc": "\/Date(1763835505000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Passengers Count",
+    "DependsOn": []
+  }
+}

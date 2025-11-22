@@ -8,6 +8,7 @@
       "Name": "BaseLookup"
     },
     "ManagerName": "EntitySchemaManager",
-    "Caption": "Base lookup"
+    "Caption": "Base lookup",
+    "DependsOn": []
   }
 }
